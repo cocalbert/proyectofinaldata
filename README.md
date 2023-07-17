@@ -18,6 +18,8 @@ After that, with sklearn I  obtain the count frequencies of appearance of the ke
  
 To finalize the analysis I wanted to visualize all the data and insights with Tableau. To do this, I first wanted to visualize an overview of the DATA world in Barcelona, then see the differences between categories (Analyst, Scientist and Engineer) and then focus on the Data Analyst positions.
 
+*you can navigate throught the (repository)[https://github.com/cocalbert/proyectofinaldata] to get all the info: Code, Data, Visualizations and the presentation slides.
+
 **KEY INSIGHTS 🚀**
 
 **All jobs:**
