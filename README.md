@@ -17,26 +17,38 @@ After that, with sklearn I  obtain the count frequencies of appearance of the ke
 To finalize the analysis I wanted to visualize all the data and insights with Tableau. To do this, I first wanted to visualize an overview of the DATA world in Barcelona, then see the differences between categories (Analyst, Scientist and Engineer) and then focus on the Data Analyst positions.
 
 **Most important insights 🚀**
+
 **ALL JOBS:**
-· 40,38% were Analyst positions, 30,28% were Data Engineer and 29,34 for Data Scientist.
-· More than 60% of the positions are in hybrid mode
-· More thant 80% positions are "senior" positions (Even if you are a junior, apply! Many companies are not very clear about what they are looking for!
-· Power Bi & Tableau are the visualization tools more demanded
-· ML, AI, Modeling, Reporting and Dashboard are the Hard Skills more demanded
-· Management, Communication, Leadership, Creativity and Proactivty are the Soft Skills more requested
+40,38% were Analyst positions, 30,28% were Data Engineer and 29,34 for Data Scientist.
+
+More than 60% of the positions are in hybrid mode
+
+More thant 80% positions are "senior" positions (Even if you are a junior, apply! Many companies are not very clear about what they are looking for!
+
+Power Bi & Tableau are the visualization tools more demanded
+
+ML, AI, Modeling, Reporting and Dashboard are the Hard Skills more demanded
+
+Management, Communication, Leadership, Creativity and Proactivty are the Soft Skills more requested
 
 **BY CATEGORIES:**
-· Unlike the analyst and engineer positions, the scientist positions require more python and r than SQL.
-· There is a big difference in the level of visualization tools between analysts and the others. These tools are much more demanded for analysts, being Ppower BI and Tableau the most demanded (watch out for Qlik!).
+Unlike the analyst and engineer positions, the scientist positions require more python and r than SQL
+
+There is a big difference in the level of visualization tools between analysts and the others. These tools are much more demanded for analysts, being Ppower BI and Tableau the most demanded (watch out for Qlik!)
 
 **DA IN PARTICULAR:**
-· Dashboard & Reporting are (with a lot of difference) the hard skills more demanded
-· Obviously much more senior positions are requested (77,17% vs 22,83% - junior)
-· Interesting: for junior positions: 56% are hybrid, 31% On-site & only 12,93% are remote.
-· SQL is the programming tool more requested.
-· Communication, leadership, decision making and proactivity are the soft skills more requested.
+Dashboard & Reporting are (with a lot of difference) the hard skills more demanded
 
-I hope you have enjoyed the project as much as I have (although there have been many ups and downs, especially in the data extraction)😁
+Obviously much more senior positions are requested (77,17% vs 22,83% - junior)
+
+Interesting: for junior positions: 56% are hybrid, 31% On-site & only 12,93% are remote
+
+SQL is the programming tool more requested
+
+Communication, leadership, decision making and proactivity are the soft skills more requested
+
+
+*I hope you have enjoyed the project as much as I have (although there have been many ups and downs, especially in the data extraction)*😁
 
 
 See you✌🏼
