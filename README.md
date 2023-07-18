@@ -18,7 +18,7 @@ After that, with sklearn I  obtain the count frequencies of appearance of the ke
  
 To finalize the analysis I wanted to visualize all the data and insights with Tableau. To do this, I first wanted to visualize an overview of the DATA world in Barcelona, then see the differences between categories (Analyst, Scientist and Engineer) and then focus on the Data Analyst positions.
 
-*you can navigate throught the [repository](https://github.com/cocalbert/proyectofinaldata) to get all the info: Code, Data, [Tableau Visualizations](https://public.tableau.com/app/profile/albert.coca/viz/finalproject-visualization/DataMarketinBarcelona-Analysis?publish=yes) and the presentation slides.
+*you can navigate throught the [repository](https://github.com/cocalbert/proyectofinaldata) to get all the info: Code, Data, [Tableau Visualizations P1](https://public.tableau.com/app/profile/albert.coca/viz/finalproject-visualization/DataMarketinBarcelona-Analysis?publish=yes) and [P2](https://public.tableau.com/app/profile/albert.coca/viz/Visualizations-DAProjectP2/Visualizations-DAProjectP2?publish=yes) and the presentation slides.
 
 **KEY INSIGHTS 🚀**
 
@@ -38,9 +38,9 @@ There is a big difference in the level of visualization tools between analysts a
 
 **DA jobs in particular:**
 
-Dashboard & Reporting are (with a lot of difference) the hard skills more demanded
-Obviously much more senior positions are requested (77,17% vs 22,83% - junior)
-Interesting: for junior positions: 56% are hybrid, 31% On-site & only 12,93% are remote
+Dashboard & Reporting are (with a lot of difference) the hard skills more demanded for Data Analyst Positions.It means that a lot of Data Analyst positions are very related to visualizations tasks.
+Obviously much more senior positions are requested vs junior. Unknown data maybe means a lot of companies are opened to al experiences.
+Interesting: In Analyst jobs is the category with more on-site positions. It can be relate by the fact that Analyst positions have more junior jobs. 
 SQL is the programming tool more requested
 Communication, leadership, decision making and proactivity are the soft skills more requested
 
