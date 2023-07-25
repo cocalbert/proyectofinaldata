@@ -33,15 +33,20 @@ Management, Communication, Leadership, Creativity and Proactivty are the Soft Sk
 
 **By Category:**
 
-Unlike the analyst and engineer positions, the scientist positions require more python and r than SQL
-There is a big difference in the level of visualization tools between analysts and the others. These tools are much more demanded for analysts, being Ppower BI and Tableau the most demanded (watch out for Qlik!)
+Unlike the analyst and engineer positions, the scientist positions require more python and r than SQL.
+
+There is a big difference in the level of visualization tools between analysts and the others. These tools are much more demanded for analysts. being Power BI and Tableau the most demanded (watch out for Qlik!)
 
 **DA jobs in particular:**
 
 Dashboard & Reporting are (with a lot of difference) the hard skills more demanded for Data Analyst Positions.It means that a lot of Data Analyst positions are very related to visualizations tasks.
+
 Obviously much more senior positions are requested vs junior. Unknown data maybe means a lot of companies are opened to al experiences.
+
 Interesting: In Analyst jobs is the category with more on-site positions. It can be relate by the fact that Analyst positions have more junior jobs. 
-SQL is the programming tool more requested
+
+SQL is the programming tool more requested.
+
 Communication, leadership, decision making and proactivity are the soft skills more requested
 
 
